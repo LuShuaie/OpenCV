@@ -6,7 +6,7 @@ https://github.com/rwightman/pytorch-image-models \
 open cv resources https://github.com/mrgloom/awesome-semantic-segmentation \
 https://github.com/microsoft/computervision-recipes \
 
-timm open models based on pytorch https://rwightman.github.io/pytorch-image-models/models/vision-transformer/
+timm open models based on pytorch https://rwightman.github.io/pytorch-image-models/models/vision-transformer/ \
 pretrained model in timm https://github.com/rwightman/pytorch-image-models/blob/master/results/results-imagenet.csv
 ## open code
 UNet-family https://github.com/ShawnBIT/UNet-family
