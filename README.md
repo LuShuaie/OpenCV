@@ -24,3 +24,5 @@ recommend alumentation https://albumentations.ai/docs/
 ## open code
 UNet-family https://github.com/ShawnBIT/UNet-family
 
+##journal article
+**MaskFormer** https://github.com/facebookresearch/MaskFormer
