@@ -17,7 +17,7 @@ limu paper https://github.com/mli/paper-reading
 
 ## pretrained Models
 **pytorch-image-models** https://github.com/rwightman/pytorch-image-models \
-**pretrained model in timm** https://github.com/rwightman/pytorch-image-models/blob/master/results/results-imagenet.csv
+**pretrained model in timm** https://github.com/rwightman/pytorch-image-models/blob/master/results/results-imagenet.csv \
 **segmentation models** https://github.com/qubvel/segmentation_models.pytorch
 
 ## Data data augmentation library
