@@ -18,14 +18,19 @@ limu paper https://github.com/mli/paper-reading
 ## pretrained Models
 **pytorch-image-models** https://github.com/rwightman/pytorch-image-models \
 **pretrained model in timm** https://github.com/rwightman/pytorch-image-models/blob/master/results/results-imagenet.csv \
-**segmentation models** https://github.com/qubvel/segmentation_models.pytorch
+
 
 ## Data data augmentation library
-recommend alumentation https://albumentations.ai/docs/
+recommend alumentation https://albumentations.ai/docs/ \
+timm contains data augmentation
 
 ## model code
 UNet-family https://github.com/ShawnBIT/UNet-family
-vit family https://github.com/lucidrains/vit-pytorch
+
+## network library
+vit models library https://github.com/lucidrains/vit-pytorch \
+**segmentation models library**  https://github.com/qubvel/segmentation_models.pytorch
+
 
 ## journal article
 **MaskFormer** https://github.com/facebookresearch/MaskFormer
