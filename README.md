@@ -28,8 +28,9 @@ timm contains data augmentation
 UNet-family https://github.com/ShawnBIT/UNet-family
 
 ## network library
-vit models library https://github.com/lucidrains/vit-pytorch \
+**vit models library** https://github.com/lucidrains/vit-pytorch \
 **segmentation models library**  https://github.com/qubvel/segmentation_models.pytorch
+**docs for segmentation library** https://smp.readthedocs.io/en/latest/index.html
 
 
 ## journal article
