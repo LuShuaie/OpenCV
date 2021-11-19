@@ -35,7 +35,8 @@ UNet-family https://github.com/ShawnBIT/UNet-family \
 **vit models library** https://github.com/lucidrains/vit-pytorch \
 **segmentation models library**  https://github.com/qubvel/segmentation_models.pytorch \
 **docs for segmentation library** https://smp.readthedocs.io/en/latest/index.html \
-**segmentation libeary for keras and tensorflow** https://github.com/qubvel/segmentation_models
+**segmentation libeary for keras and tensorflow** https://github.com/qubvel/segmentation_models \
+**Semantic Segmentation on PyTorch**  https://github.com/Tramac/awesome-semantic-segmentation-pytorch
 
 ## journal article
 **MaskFormer** https://github.com/facebookresearch/MaskFormer
