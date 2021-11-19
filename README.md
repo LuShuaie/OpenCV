@@ -26,6 +26,7 @@ timm contains data augmentation
 
 ## model code
 UNet-family https://github.com/ShawnBIT/UNet-family
+**Awesome Semantic Segmentation** https://github.com/mrgloom/awesome-semantic-segmentation
 
 ## network library
 **vit models library** https://github.com/lucidrains/vit-pytorch \
