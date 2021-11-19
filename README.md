@@ -25,8 +25,9 @@ recommend alumentation https://albumentations.ai/docs/ \
 timm contains data augmentation
 
 ## model code
-UNet-family https://github.com/ShawnBIT/UNet-family
+UNet-family https://github.com/ShawnBIT/UNet-family \
 **Awesome Semantic Segmentation** https://github.com/mrgloom/awesome-semantic-segmentation
+**nnUNet** https://github.com/MIC-DKFZ/nnUNet
 
 ## network library
 **vit models library** https://github.com/lucidrains/vit-pytorch \
