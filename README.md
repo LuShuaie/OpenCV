@@ -26,15 +26,15 @@ timm contains data augmentation
 
 ## model code
 UNet-family https://github.com/ShawnBIT/UNet-family \
-**Awesome Semantic Segmentation** https://github.com/mrgloom/awesome-semantic-segmentation
-**nnUNet** https://github.com/MIC-DKFZ/nnUNet
+**Awesome Semantic Segmentation** https://github.com/mrgloom/awesome-semantic-segmentation \
+**nnUNet** https://github.com/MIC-DKFZ/nnUNet \
 **Semantic Segmentation on MIT ADE20K dataset in PyTorch** https://github.com/CSAILVision/semantic-segmentation-pytorch
 
 ## network library
 **vit models library** https://github.com/lucidrains/vit-pytorch \
 **segmentation models library**  https://github.com/qubvel/segmentation_models.pytorch \
-**docs for segmentation library** https://smp.readthedocs.io/en/latest/index.html
-
+**docs for segmentation library** https://smp.readthedocs.io/en/latest/index.html \
+**segmentation libeary for keras and tensorflow** https://github.com/qubvel/segmentation_models
 
 ## journal article
 **MaskFormer** https://github.com/facebookresearch/MaskFormer
