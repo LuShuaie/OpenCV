@@ -12,6 +12,8 @@ limu paper https://github.com/mli/paper-reading
 **open segmentation project** https://github.com/open-mmlab/mmsegmentation  \
 **open medical project** https://github.com/MontaEllis/Pytorch-Medical-Segmentation \
 
+**pytorch models vis** https://github.com/szagoruyko/pytorchviz
+
 **open cv resources** https://github.com/mrgloom/awesome-semantic-segmentation \
 **microsoft** https://github.com/microsoft/computervision-recipes 
 
