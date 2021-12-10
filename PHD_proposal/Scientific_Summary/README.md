@@ -1,10 +1,10 @@
-参考1 https://www.zhihu.com/question/300967426/answer/1535173805?utm_source=com.yinxiang&utm_medium=social&utm_oi=824054350027554816
+[科研论文如何想到不错的 idea？](https://www.zhihu.com/question/300967426/answer/1535173805?utm_source=com.yinxiang&utm_medium=social&utm_oi=824054350027554816)
 
-参考2 https://zhuanlan.zhihu.com/p/104677391?utm_source=com.yinxiang&utm_medium=social&utm_oi=824054350027554816
+[5篇SCI，所有的方法和技巧都在这里了](https://zhuanlan.zhihu.com/p/104677391?utm_source=com.yinxiang&utm_medium=social&utm_oi=824054350027554816)
 
-参考3 https://mp.weixin.qq.com/s?__biz=MzkzOTI1NzYxMw==&mid=2247483960&idx=3&sn=25124f429e074a5a03f6920d99c99352&chksm=c2f2f85af585714c9b93c4f956ef654d7da61f1aa1a2253e738b2e5f22270281590250151ae5&scene=178&cur_album_id=1919272522957537288#rd
+[为什么你研究了好几年却什么idea也没提出来？](https://mp.weixin.qq.com/s?__biz=MzkzOTI1NzYxMw==&mid=2247483960&idx=3&sn=25124f429e074a5a03f6920d99c99352&chksm=c2f2f85af585714c9b93c4f956ef654d7da61f1aa1a2253e738b2e5f22270281590250151ae5&scene=178&cur_album_id=1919272522957537288#rd)
 
-参考4 https://mp.weixin.qq.com/s?__biz=MzkzOTI1NzYxMw==&mid=2247484094&idx=1&sn=432866ab709188bc7ed0902be3a18a62&chksm=c2f2f8dcf58571ca0cb26e7f56b2f6b0d6c935dca7d5dc227df72f04d0bce65d19ee53ba0a6b&scene=21#wechat_redirect
+[这里告诉你两种提idea的思路](https://mp.weixin.qq.com/s?__biz=MzkzOTI1NzYxMw==&mid=2247484094&idx=1&sn=432866ab709188bc7ed0902be3a18a62&chksm=c2f2f8dcf58571ca0cb26e7f56b2f6b0d6c935dca7d5dc227df72f04d0bce65d19ee53ba0a6b&scene=21#wechat_redirect)
 
 # 勤奋 + 多动脑
 
