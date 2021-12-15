@@ -1,5 +1,17 @@
 # Wechat
 
+2021/12/15
+[实践教程 | 浅谈 PyTorch 中的 tensor 及使用](https://mp.weixin.qq.com/s/6Q6LrRwGmGZ7Qs72hVNE7A)
+```python
+tensor.to(device)
+tensor.detach()
+tensor.require_grad
+tensor.item()
+tensor.tolist()
+with torch.no_grad():
+```
+
+
 2021/12/13
 
 [Transformer代码+面试细节](https://mp.weixin.qq.com/s/x73m8caXjj-iqC9XsvHa0g)
