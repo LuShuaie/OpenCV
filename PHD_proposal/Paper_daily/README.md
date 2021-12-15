@@ -6,9 +6,12 @@
 
 Res2Net的想法是否可以推广至decoder，这种想法和transformer中的多头注意力机制非常相似。
 
+res2net and resnetxt
 
 
 ## Memory
+
+## Aggregated Residual Transformations for Deep Neural Networks(ResNeXt)
 
 ## Res2Net: A New Multi-scale Backbone Architecture
 
