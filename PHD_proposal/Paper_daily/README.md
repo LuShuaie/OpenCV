@@ -2,9 +2,9 @@
 
 
 
-##  
+##  insights
 
-
+Res2Net的想法是否可以推广至decoder，这种想法和transformer中的多头注意力机制非常相似。
 
 
 
